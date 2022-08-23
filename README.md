@@ -11,6 +11,6 @@
  <a href="https://open.spotify.com/user/zl7yn9kti2u3b94qn7awafcyx" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
     
    
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/850717304693587968?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/850717304693587968)
+[![Discord Presence](https://lanyard.cnrad.dev/api/850717304693587968)](https://discord.com/users/850717304693587968)
      
 </p>
